@@ -1,0 +1,13 @@
+{
+    "name": "alexdesignworks/drupal8_example_dependee",
+    "description": "Dependee module to test inclusions in [drupal_circleci_template](https://github.com/alexdesignworks/drupal_circleci_template) repository.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Alex Skrypnyk",
+            "email": "alex.designworks@gmail.com"
+        }
+    ],
+    "require": {}
+}
