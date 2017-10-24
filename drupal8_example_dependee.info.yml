@@ -1,0 +1,8 @@
+name: 'Drupal8 example dependee'
+description: 'Dependee module to test inclusions in [drupal_circleci_template](https://github.com/alexdesignworks/drupal_circleci_template) repository.'
+type: module
+package: Other
+version: 8.x-0.1
+core: 8.x
+dependencies:
+  - user
